@@ -1,1 +1,8 @@
 # Scope of Audit
+the scope of an audit plays a crucial role in ensuring that the audit is focused, efficient, and effective. It provides a framework for the entire audit process. It includes all relevant aspects of Botium Toys' IT infrastructure, including: 
+Physical security: The storefront, warehouse, and office space where IT infrastructure is located.
+Network security: Internal and external network infrastructure, including firewalls, routers, switches, and Wi-Fi.
+Data security: Data storage, both on-site and in the cloud, including customer data, payment information, and intellectual property.
+Application security: E-commerce platforms, internal business applications, and any software used by the IT department.
+Compliance: Specifically PCI DSS for payment processing and GDPR for EU customer data.
+review the assets Botium Toys has and the controls and compliance practices they have in place.

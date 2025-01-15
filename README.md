@@ -1,10 +1,10 @@
-# Senario for conducting Security-Audit 
+## Senario for conducting Security-Audit 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 The manager of the IT department has decided that an internal IT audit needs to be conducted. She's worried about maintaining compliance and business operations as the company grows without a clear plan. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
-# following steps will be taken for security Audit:
-1. Review the IT Manager's Documentation:
+## following steps will be taken for security Audit:
+# 1. Review the IT Manager's Documentation:
 Scope: Ensure the scope is clearly defined and includes all relevant aspects of Botium Toys' IT infrastructure, including:
 Physical security: The storefront, warehouse, and office space where IT infrastructure is located.
 Network security: Internal and external network infrastructure, including firewalls, routers, switches, and Wi-Fi.
@@ -19,7 +19,7 @@ It accurately assesses vulnerabilities (e.g., lack of encryption, weak passwords
 It considers the impact of potential incidents on the business.
 It assigns appropriate risk levels (e.g., high, medium, low).
 
-3.  Develop an Audit Checklist:
+# 3.  Develop an Audit Checklist:
 Based on the NIST CSF framework and the specific risks identified in the risk assessment, I would create a detailed checklist covering the following areas:
 dentify:
 Asset Management: Is there a complete and accurate inventory of all IT assets?
@@ -49,17 +49,17 @@ Recovery Planning: Does the company have a plan for recovering from security inc
 Improvements: Are recovery procedures tested and updated regularly?
 Communications: Are there procedures for communicating with stakeholders during recovery?
 
-3. Conduct the Audit:
+# 3. Conduct the Audit:
 This will involve:
 Gathering evidence: Reviewing documentation, interviewing staff, observing practices, and conducting technical tests (e.g., vulnerability scans, penetration testing).
 Documenting findings: Clearly recording all observations, including strengths, weaknesses, and areas for improvement.
 Analyzing findings: Determining the risk level associated with each finding.
 
-4.  Compliance Check:
+# 4.  Compliance Check:
 PCI DSS: Botium Toys must comply with PCI DSS requirements if they process credit card payments internally. This includes requirements for secure network configuration, access control, data encryption, and regular security testing.
 GDPR: Since Botium Toys has customers in the EU, they must comply with GDPR. This includes requirements for data privacy, data security, and obtaining consent for data collection.
 
-5. Develop Recommendations:
+# 5. Develop Recommendations:
 Based on the audit findings, I would provide specific, actionable recommendations for improving Botium Toys' security posture and compliance.  This might include:
 Implementing stronger access controls.
 Improving data encryption practices.
@@ -67,7 +67,7 @@ Developing an incident response plan.
 Providing employee security awareness training.
 Engaging a third-party security assessor for penetration testing.
 
-6.  Report to Management:
+# 6.  Report to Management:
 Prepare a comprehensive audit report that summarizes the findings, analysis, and recommendations. This report should be presented to the IT manager and other relevant stakeholders.
 Important Considerations:
 Prioritization: Given Botium Toys' limited resources, it's essential to prioritize the recommendations based on risk level and potential impact.

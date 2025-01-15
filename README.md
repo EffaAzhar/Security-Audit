@@ -19,7 +19,7 @@ It accurately assesses vulnerabilities (e.g., lack of encryption, weak passwords
 It considers the impact of potential incidents on the business.
 It assigns appropriate risk levels (e.g., high, medium, low).
 
-# 3.  Develop an Audit Checklist:
+# 2.  Develop an Audit Checklist:
 Based on the NIST CSF framework and the specific risks identified in the risk assessment, I would create a detailed checklist covering the following areas:
 dentify:
 Asset Management: Is there a complete and accurate inventory of all IT assets?

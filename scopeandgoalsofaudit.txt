@@ -1,4 +1,3 @@
-# Scope of Audit
 the scope of an audit plays a crucial role in ensuring that the audit is focused, efficient, and effective. It provides a framework for the entire audit process. It includes all relevant aspects of Botium Toys' IT infrastructure, including: 
 Physical security: The storefront, warehouse, and office space where IT infrastructure is located.
 Network security: Internal and external network infrastructure, including firewalls, routers, switches, and Wi-Fi.
@@ -20,4 +19,4 @@ review the assets Botium Toys has and the controls and compliance practices they
 goals identify where organization's compliance is lacking. The goals of audit identify vulnerabilities, access risks, improve security, protect sensitive data, and ensure compliance. Goals assess existingassets and complete the controls and compliance checklist to determine which controls and compliance best practices that need to be implemented to improve Botium Toys’ security posture.
 
 #Risk Assessment
-Risk assessment in auditing is a crucial process where auditors identify and evaluate potential risks that could affect the accuracy and reliability of an organization's financial statements or the effectiveness of its internal controls. Risk assessment is crucial for effectiveness,efficiency,and better audit planning. Auditors first try to identify potential areas where things might be wrong. This helps to focus on efforts and resources where they're most needed. 
+Risk assessment in auditing is a crucial process where auditors identify and evaluate potential risks that could affect the accuracy and reliability of an organization's financial statements or the effectiveness of its internal controls. Risk assessment is crucial for effectiveness,efficiency,and better audit planning. Auditors first try to identify potential areas where things might be wrong. This helps to focus on efforts and resources where they're most needed.

@@ -32,19 +32,45 @@ A risk assessment has been conducted to identify and prioritize potential risks 
 * **Vulnerability assessment:** Identification of weaknesses in the IT infrastructure and systems that could be exploited by threats.
 * **Likelihood and impact assessment:** Assessment of the likelihood of each threat occurring and the potential impact on the business.
 
-**Audit Process**
+**Controls and Compliance Checklist**
 
-The audit will follow a structured approach, including the following steps:
+A controls and compliance checklist was used to assess Botium Toys' compliance with industry standards and best practices, including the NIST Cybersecurity Framework (CSF). The checklist covers a wide range of security areas, including asset management, access control, data protection, network security, incident response, and compliance.
 
-1. **Planning and preparation:** Define the audit scope and goals, gather information, and conduct a risk assessment.
-2. **Control evaluation:** Evaluate the effectiveness of security controls using the NIST CSF framework.
-3. **Data gathering and analysis:** Interview staff, review documentation, and analyze systems and logs.
-4. **Reporting:** Document audit findings, including risks, vulnerabilities, and recommendations.
-5. **Remediation:** Develop and implement a plan to address identified issues.
+**Findings**
 
-**Additional Information**
+The audit identified a number of areas where Botium Toys needs to improve its security posture. These include:
 
-This README file will be updated throughout the audit process to provide progress updates and additional information.
+* **Implementing a comprehensive asset management program**
+* **Fundamental security Controls** such as role-based access control and the principle of least privilege must be implemented to .
+* **Encrypt** cardholder data at rest and in transit.
+* **Disaster recovery plan**
+* **Compliance** with applicable regulations, such as PCI-DSS and GDPR.
+
+**Recommendations for Improvement**
+
+Based on the audit findings, a number of recommendations were made to Botium Toys to improve their security posture. These recommendations include:
+
+*Implementing a comprehensive asset management program.
+* **NIST CSF Alignment**
+* **Access Control**Strengthening access controls by implementing role-based access control and the principle of least privilege.
+* **Data Protection**Encrypting cardholder data at rest and in transit.
+* **Develop and implement a disaster recovery plan**
+* **Ensuring compliance** with applicable regulations, such as PCI-DSS and GDPR.
+* **Regular Security Awareness Training for Employees**
+* **Vulnerability Management Program**
+* **Regular Penetration Testing**
+* **Intrusion Detection System(IDS)**
+* **Legacy Syatem Decomissioning**
+* **Centralized Password Management**
+* **Network Segmentation**
+
+**Remediation Plan**
+
+A remediation plan has been developed to address the identified issues and implement the recommended improvements. The plan includes a timeline, responsible parties, and estimated costs.
+
+**Audit Report**
+
+A final audit report will be prepared summarizing the findings, recommendations, and remediation plan. The report will be presented to Botium Toys management and stakeholders.
 
 **Disclaimer:**
 
